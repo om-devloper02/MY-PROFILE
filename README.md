@@ -100,11 +100,6 @@ Data analysis project for understanding student performance using Python.
 ### ⭐ If you find my projects useful, consider giving them a Star!
 
 **Learning → Building → Sharing → Improving 🚀**
-
-# 💫 About Me:
-👋 Hi, I’m Omkar — a Python developer passionate about AI, machine learning, and building real-world projects. Always learning, always improving.<br>🚀 Python developer | AI & ML enthusiast<br>Building practical projects with Flask, OpenCV, and data-driven technologies.<br>💻 Python | AI | Machine Learning<br>Turning ideas into working projects.<br>🌱 Aspiring AI engineer<br>Learning Python, building projects, and exploring intelligent systems.<br>⚡ Python developer with a strong interest in AI<br>Focused on clean code, real-world solutions, and continuous growth.
-
-
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/om-devloper02) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/smart_aicodes/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omishelke830@gmail.com) 
 
