@@ -1,4 +1,106 @@
 ![logo](https://github.com/omii9890/omii.9890/blob/main/BANER.png)
+
+# 👋 Hi, I'm Omkar Shelke
+
+### 💻 Computer Science Student | 🐍 Python Developer | 🤖 AI & Cybersecurity Enthusiast
+
+I enjoy building practical projects using **Python, AI, Web Development and Cybersecurity**.
+
+🚀 Currently learning and building projects in:
+
+* 🐍 Python
+* 🤖 Artificial Intelligence & Generative AI
+* 🔐 Cybersecurity
+* 🌐 Web Development
+* 🗄️ Databases & APIs
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+`Python` `JavaScript` `HTML` `CSS` `C` `C++` `Java`
+
+**AI & Data**
+
+`Artificial Intelligence` `Machine Learning` `Pandas` `NumPy` `Scikit-learn`
+
+**Cybersecurity**
+
+`Network Security` `Web Security` `Vulnerability Assessment` `Cybersecurity Tools`
+
+**Backend & Database**
+
+`Flask` `FastAPI` `MySQL` `SQLite` `REST API`
+
+**Tools**
+
+`Git` `GitHub` `VS Code` `Docker` `Linux`
+
+---
+
+## 🚀 Featured Projects
+
+### 🛡️ CyberShield AI
+
+AI-powered cybersecurity platform focused on cyber threat awareness, detection and emergency response.
+
+**Tech:** Python • AI • Cybersecurity • Flask
+
+### 🤖 AI Chatbot
+
+A Python-based AI chatbot with a web interface for interactive conversations.
+
+**Tech:** Python • Flask • AI • HTML • CSS • JavaScript
+
+### 💻 Online Compiler
+
+Web-based programming environment supporting multiple programming languages.
+
+**Tech:** HTML • CSS • JavaScript • Python • Backend APIs
+
+### 📊 Student Performance Analyzer
+
+Data analysis project for understanding student performance using Python.
+
+**Tech:** Python • Pandas • Matplotlib
+
+---
+
+## 📚 Currently Learning
+
+* Artificial Intelligence
+* Generative AI
+* Cybersecurity
+* Advanced Python
+* Backend Development
+* Open Source Development
+
+---
+
+## 🎯 2026 Goals
+
+* 🚀 Build production-ready AI projects
+* 🔐 Develop cybersecurity tools
+* 🌍 Contribute to Open Source
+* 💼 Build a strong developer portfolio
+* 📈 Grow my GitHub community
+
+---
+
+## 🤝 Connect With Me
+
+📸 Instagram: **@om_shelke00**
+
+💻 GitHub: **@om-devloper02**
+
+---
+
+### ⭐ If you find my projects useful, consider giving them a Star!
+
+**Learning → Building → Sharing → Improving 🚀**
+
 # 💫 About Me:
 👋 Hi, I’m Omkar — a Python developer passionate about AI, machine learning, and building real-world projects. Always learning, always improving.<br>🚀 Python developer | AI & ML enthusiast<br>Building practical projects with Flask, OpenCV, and data-driven technologies.<br>💻 Python | AI | Machine Learning<br>Turning ideas into working projects.<br>🌱 Aspiring AI engineer<br>Learning Python, building projects, and exploring intelligent systems.<br>⚡ Python developer with a strong interest in AI<br>Focused on clean code, real-world solutions, and continuous growth.
 
