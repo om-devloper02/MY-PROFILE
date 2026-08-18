@@ -91,9 +91,9 @@ Data analysis project for understanding student performance using Python.
 
 ## 🤝 Connect With Me
 
-📸 Instagram: **@om_shelke00**
+📸 Instagram: **@om_shelke_patil_96**
 
-💻 GitHub: **@om-devloper02**
+💻 GitHub: **@omkar-shelke-dev**
 
 ---
 
